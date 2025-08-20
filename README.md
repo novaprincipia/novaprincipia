@@ -1,5 +1,7 @@
 ### Nova Principia - The Mathematics Principles of Modern Science
 
+This is an open-source repository that archives all my files related to using category theory to reconstruct the theory of everything, making it accessible to everyone, just in case something happens to me and this content cannot be known by others, which would slow down the evolutionary process of human being.
+
 <!--
 **novaprincipia/novaprincipia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
